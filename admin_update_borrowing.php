@@ -26,7 +26,7 @@
 
     ?>
 </head>
-<body>
+<body style="background-image: url('icon/admin_home.jpg');background-repeat:no-repeat;background-attachment:fixed;background-size:cover;">
     <div class="container">
         <div class="top">
             <img src="./icon/logo.jpg" style="float:left;width:80px;">
@@ -44,6 +44,14 @@
                 <a href="admin_borrowings.php">Borrowings</a>
             </center>
         </div>
+        <div class="nav-btn">
+                <center>
+                   <a href="admin_books.php">Books</a>
+                   <a href="admin_members.php">Members</a>
+                   <a href="admin_borrowings.php">Borrowings</a>
+                </center>
+            </div>
+        </div> <br><br>
 
         <center>
             <div class="form-box">
