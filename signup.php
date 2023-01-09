@@ -4,7 +4,7 @@
     <title>Signup</title>
     <link rel="stylesheet" type="text/css" href="css/login.css">
 </head>
-<body>
+<body style="background-image: url('icon/common.jpg');background-repeat:no-repeat;background-attachment:fixed;background-size:cover;">
     <center>
         <div class="login-box">
             <form method="post" action="php/signup.php" enctype="multipart/form-data">
