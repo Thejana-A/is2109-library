@@ -11,8 +11,8 @@
     <title>Login</title>
     <link rel="stylesheet" type="text/css" href="css/login.css">
 </head>
-<body>
-    <center>
+<body style="background-image: url('icon/common.jpg');background-repeat:no-repeat;background-attachment:fixed;background-size:cover;">
+    <center><br><br><br><br><br><br>
         <div class="login-box">
             <form method="get" action="php/login.php">
                 <table>
