@@ -4,7 +4,7 @@
     <title>Index</title>
     <link rel="stylesheet" type="text/css" href="css/index.css">
 </head>
-<body>
+<body style="background-image: url('icon/index.jpg');background-repeat:no-repeat;background-attachment:fixed;background-size:cover;">
     <div class="container">
         <div class="top">
             <img src="./icon/logo.jpg" style="float:left;width:80px;">
@@ -17,13 +17,12 @@
         </div>
         <div>
             <center>
-                <h3>Hi , Welcome you to our online library platform !!! </h3>
-                <h4>
-                    Books are best friends of people.<br>
-                    Reading ,akes man perfect.
-                </h4>
+                <h1><b>Hi , Welcome to our online library platform !!! </b></h1>
+                <h2>
+                "Books are mirrors: You only see in them what you already have inside you." <br>
+                – Carlos Ruiz Zafón  
+                </h2>
             </center>
-
         </div>
     </div>
 </body>
