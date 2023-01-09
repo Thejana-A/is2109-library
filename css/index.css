@@ -20,7 +20,7 @@
 	padding:5px;
 	box-sizing:border-box;
 	border-bottom-style:solid;
-	border-bottom-color:green;
+	border-bottom-color:#ef0000;
     font-family:sans-serif;
 }
 .mid a{
@@ -47,8 +47,8 @@
     margin:10px;
 }
 .nav a{
-	padding:5px;
-	background-color:#bfe6d2;
+    padding:5px;
+    background-color:#bfe6d2;
     color:#000000;
     text-decoration:none;
     margin:5px;
@@ -68,7 +68,7 @@
 }
 .form-submit-button, .form-box a{
     background-color:#ffffff;
-	text-align:center;
+    text-align:center;
     color:#000000;
     padding:5px;
     border-radius:4px;
@@ -77,3 +77,14 @@
     margin:3px;
     margin:6px;
 }
+.nav-btn {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #999999;
+    padding: 12px 5px;
+    border: none;
+    border-radius: 5px;
+  }
